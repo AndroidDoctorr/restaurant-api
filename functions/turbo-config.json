@@ -1,0 +1,8 @@
+{
+    "dataService": "firestore",
+    "loggingService": "firestore",
+    "controllers": {
+        "restaurantController": "/restaurant",
+        "ratingController": "/rating"
+    }
+}
